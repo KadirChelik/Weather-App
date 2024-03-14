@@ -14,4 +14,4 @@ This application allows you to view a weekly weather forecast for all cities in 
 
 ## Screenshot
 
-[ss]: Screenshot-weather-app.png "Screenshot"
+![image](https://github.com/KadirChelik/Weather-App/blob/main/Screenshot-weather-app.png)
